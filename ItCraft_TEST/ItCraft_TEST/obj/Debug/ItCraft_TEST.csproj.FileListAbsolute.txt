@@ -1,0 +1,6 @@
+c:\documents\visual studio 2015\Projects\ItCraft_TEST\ItCraft_TEST\bin\Debug\ItCraft_TEST.exe.config
+c:\documents\visual studio 2015\Projects\ItCraft_TEST\ItCraft_TEST\bin\Debug\ItCraft_TEST.exe
+c:\documents\visual studio 2015\Projects\ItCraft_TEST\ItCraft_TEST\bin\Debug\ItCraft_TEST.pdb
+c:\documents\visual studio 2015\Projects\ItCraft_TEST\ItCraft_TEST\obj\Debug\ItCraft_TEST.exe
+c:\documents\visual studio 2015\Projects\ItCraft_TEST\ItCraft_TEST\obj\Debug\ItCraft_TEST.pdb
+c:\documents\visual studio 2015\Projects\ItCraft_TEST\ItCraft_TEST\obj\Debug\ItCraft_TEST.csprojResolveAssemblyReference.cache
